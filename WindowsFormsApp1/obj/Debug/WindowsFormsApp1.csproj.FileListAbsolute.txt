@@ -1,0 +1,17 @@
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.DataAccess.dll
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmUser.resources
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCreateUser.resources
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EmployeeForm.resources
+D:\semster2\c#\final project\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserBookForm.resources
